@@ -10,7 +10,7 @@ namespace SortVectors
             Random r = new Random();
             for(int i = 0; i < vett.Length; i++)
             {
-                vett[i] = r.Next(0, 11);
+                vett[i] = r.Next(-10, 11);
                 Console.Write(vett[i] + " ");
             }
             Console.ReadKey();
