@@ -1,0 +1,13 @@
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.exe
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.deps.json
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.runtimeconfig.json
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.runtimeconfig.dev.json
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.dll
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.pdb
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.csprojAssemblyReference.cache
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.AssemblyInfoInputs.cache
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.AssemblyInfo.cs
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.csproj.CoreCompileInputs.cache
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.dll
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.pdb
+C:\Users\francesco.tonelli\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.genruntimeconfig.cache
