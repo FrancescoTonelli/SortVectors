@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\francesco.tonelli\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj": {}
+    "C:\\Users\\francesco.tonelli\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\francesco.tonelli\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj": {
+    "C:\\Users\\francesco.tonelli\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\francesco.tonelli\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj",
+        "projectUniqueName": "C:\\Users\\francesco.tonelli\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj",
         "projectName": "SortVectors",
-        "projectPath": "C:\\Users\\francesco.tonelli\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj",
+        "projectPath": "C:\\Users\\francesco.tonelli\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj",
         "packagesPath": "C:\\Users\\francesco.tonelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\francesco.tonelli\\Documents\\SortVectors\\SortVectors\\obj\\",
+        "outputPath": "C:\\Users\\francesco.tonelli\\Documents\\Clone\\SortVectors\\SortVectors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
